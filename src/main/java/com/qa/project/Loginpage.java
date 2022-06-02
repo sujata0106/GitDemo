@@ -9,7 +9,8 @@ public class Loginpage {
 
 		System.out.println("loginPage");
 		System.out.println("loginstatus of the login page");
-		System.out.println("Test7767")
+		System.out.println("Test7767");
+		///testing new change for the pull
 	}
 	
 }
