@@ -9,6 +9,7 @@ public class Loginpage {
 
 		System.out.println("loginPage");
 		System.out.println("loginstatus of the login page");
+		System.out.println("Test7767")
 	}
 	
 }
